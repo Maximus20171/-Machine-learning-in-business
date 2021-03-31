@@ -1,0 +1,3 @@
+—сылка на colab в котором все это тестировалось:
+https://colab.research.google.com/drive/18zZz5GAdNNwRBtrIsgA_L2wiX6ZnzXfz#scrollTo=bDJCMtAFMIG7
+
